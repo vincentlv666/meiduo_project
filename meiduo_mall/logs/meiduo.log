@@ -1,0 +1,9 @@
+INFO 2022-07-21 20:54:24,169 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-07-21 20:57:24,042 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-07-21 20:57:26,603 basehttp 187 "GET / HTTP/1.1" 200 10633
+INFO 2022-07-21 20:58:03,931 basehttp 187 "GET / HTTP/1.1" 200 10633
+INFO 2022-07-21 20:59:38,541 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-07-21 20:59:41,868 basehttp 187 "GET / HTTP/1.1" 200 10633
+INFO 2022-07-21 20:59:52,863 basehttp 187 "GET / HTTP/1.1" 200 10633
+INFO 2022-07-21 21:04:32,877 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-07-21 21:04:34,154 basehttp 187 "GET / HTTP/1.1" 200 10633
